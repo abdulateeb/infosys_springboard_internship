@@ -1,3 +1,3 @@
 ### This repository contains my Infosys Springboard 5.0 Internship project files.
 
-![image](https://github.com/user-attachments/assets/288987c0-52c5-4d05-9f34-43f24c55c565)
+![project_files_directory_format](https://github.com/user-attachments/assets/d2fa3a0d-cad5-413e-8ef2-40fd35435e18)
