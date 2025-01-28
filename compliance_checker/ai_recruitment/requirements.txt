@@ -8,3 +8,4 @@ fastapi
 pydantic
 python-dotenv
 pdfreader
+PyPDF2
